@@ -1,0 +1,9 @@
+﻿cl : command line warning D9025: overriding '/sdl' with '/GS-'
+  Driver.cpp
+  Entity.cpp
+  Main.cpp
+C:\CRZAIMBOT\CRZAimbot\Main.cpp(550,16): warning C4305: '=': truncation from 'int' to 'bool'
+C:\CRZAIMBOT\CRZAimbot\Main.cpp(562,23): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  MemProtector.cpp
+  Generating Code...
+  CRZAimbot.vcxproj -> C:\CRZAIMBOT\x64\Debug\CRZAimbot.dll
